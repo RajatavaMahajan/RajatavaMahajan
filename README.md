@@ -1,9 +1,9 @@
 <!-- Title -->
-<h1 align="center">👋 Hello, I'm [Your Name]!</h1>
+<h1 align="center">👋 Hello, I'm Rajatava Mahajan !</h1>
 
 <!-- Banner -->
 <p align="center">
-  <img src="anime-banner.jpg" alt="Anime Banner">
+  <img src="https://wallpapercave.com/wp/wp2629714.jpg" alt="Anime Banner">
 </p>
 
 <!-- Bio -->
@@ -21,7 +21,7 @@
 
 🌟 I'm a passionate anime lover and a budding developer, combining my love for technology and anime to create amazing projects.
 
-🚀 Currently, I'm focusing on learning [programming language or technology] and [other relevant skills].
+🚀 Currently, I'm focusing on learning react , next js , express and mysql.
 
 📚 When I'm not coding, you'll find me watching my favorite anime series, reading manga, or exploring the anime universe.
 
@@ -33,7 +33,7 @@
 - Naruto
 - Attack on Titan
 - One Piece
-- Your Lie in April
+- Jujutsu Kaisen
 - [Add your own favorites]
 
 📖 I'm always open to recommendations! Feel free to share your favorite anime with me.
@@ -52,19 +52,19 @@
 <!-- Get in Touch -->
 ## Get in Touch
 
-📫 You can reach me via email at [your.email@example.com](mailto:your.email@example.com) or connect with me on social media:
+📫 You can reach me via email at rajatavamahajan1804@gmail.com or connect with me on social media:
 
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- GitHub: [github.com/RajatavaMahajan](https://github.com/RajatavaMahajan)
 - Twitter: [@yourusername](https://twitter.com/yourusername)
 - LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
 
 <!-- Stats -->
 ## GitHub Stats
 
-[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Rajatava Mahajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajatavaMahajan&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 <p align="center">
-  Made with ❤️ and ☕ by [Your Name](link-to-your-profile)
+  Made with ❤️ and ☕ by Rajatava Mahajan
 </p>
