@@ -1,28 +1,70 @@
-<h1 align="center">Hi 👋, I'm Rajatava Mahajan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align='right' width='400' alt='coding' src='https://imgs.search.brave.com/BkI-o6MF27Ijn_F7WJXLf2YuKMNy3L97QpoI1X49fxc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWUt/aXRhY2hpLXNoYXJp/bmdhbi1leWUtcmE1/YmplY2N3dWpiM3Jx/MS5naWY.gif'/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatava-mahajan&label=Profile%20views&color=0e75b6&style=flat" alt="rajatava-mahajan" /> </p>
+<!-- Title -->
+<h1 align="center">👋 Hello, I'm [Your Name]!</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatava-mahajan" alt="rajatava-mahajan" /></a> </p>
-
-- 🌱 I’m currently learning **react , devops , express,mysql**
-
-- 💬 Ask me about **react,javascript**
-
-- 📫 How to reach me **rajatavamahajan1804@gmail.com**
-
-- ⚡ Fun fact **Dont know about ai yet**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Banner -->
+<p align="center">
+  <img src="anime-banner.jpg" alt="Anime Banner">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- Bio -->
+<p align="center">Aspiring Developer | Anime Enthusiast | [Your Location]</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatava-mahajan&show_icons=true&locale=en&layout=compact" alt="rajatava-mahajan" /></p>
+<!-- Social Links -->
+<p align="center">
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-Profile-green" alt="GitHub Profile"></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-Follow-blue" alt="Twitter"></a>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatava-mahajan&show_icons=true&locale=en" alt="rajatava-mahajan" /></p>
+<!-- About Me -->
+## About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatava-mahajan&" alt="rajatava-mahajan" /></p>
+🌟 I'm a passionate anime lover and a budding developer, combining my love for technology and anime to create amazing projects.
 
+🚀 Currently, I'm focusing on learning [programming language or technology] and [other relevant skills].
+
+📚 When I'm not coding, you'll find me watching my favorite anime series, reading manga, or exploring the anime universe.
+
+<!-- Anime Favorites -->
+## Anime Favorites
+
+🎥 Some of my favorite anime series include:
+
+- Naruto
+- Attack on Titan
+- One Piece
+- Your Lie in April
+- [Add your own favorites]
+
+📖 I'm always open to recommendations! Feel free to share your favorite anime with me.
+
+<!-- My Projects -->
+## My Projects
+
+🌟 Here are some of my recent projects:
+
+- [Project 1](link-to-project-1): A brief description of the project.
+- [Project 2](link-to-project-2): Another exciting project I worked on.
+- [Project 3](link-to-project-3): Highlight one more project.
+
+🛠️ I'm constantly working on new projects, so stay tuned for updates!
+
+<!-- Get in Touch -->
+## Get in Touch
+
+📫 You can reach me via email at [your.email@example.com](mailto:your.email@example.com) or connect with me on social media:
+
+- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- Twitter: [@yourusername](https://twitter.com/yourusername)
+- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+
+<!-- Stats -->
+## GitHub Stats
+
+[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+<p align="center">
+  Made with ❤️ and ☕ by [Your Name](link-to-your-profile)
+</p>
