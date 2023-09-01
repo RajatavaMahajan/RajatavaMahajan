@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajatava Mahajan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align='right' alt='coding' src='https://imgs.search.brave.com/BkI-o6MF27Ijn_F7WJXLf2YuKMNy3L97QpoI1X49fxc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWUt/aXRhY2hpLXNoYXJp/bmdhbi1leWUtcmE1/YmplY2N3dWpiM3Jx/MS5naWY.gif'/>
+<img align='right' width='400' alt='coding' src='https://imgs.search.brave.com/BkI-o6MF27Ijn_F7WJXLf2YuKMNy3L97QpoI1X49fxc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWUt/aXRhY2hpLXNoYXJp/bmdhbi1leWUtcmE1/YmplY2N3dWpiM3Jx/MS5naWY.gif'/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatava-mahajan&label=Profile%20views&color=0e75b6&style=flat" alt="rajatava-mahajan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatava-mahajan" alt="rajatava-mahajan" /></a> </p>
